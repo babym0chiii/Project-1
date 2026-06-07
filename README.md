@@ -12,3 +12,14 @@ Using the Pro Micro Starter Kit
 not sending back hello world, fixed my mistakes by removing number in serial line before print hello world 
 <img width="1707" height="961" alt="image" src="https://github.com/user-attachments/assets/c962564f-4427-4ea9-b7a0-5bf285e9bbe2" />
 returned correct message! success! -- edit 06JUN2026
+
+Blinking light LED test code and breadboard wiring
+<img width="1701" height="946" alt="image" src="https://github.com/user-attachments/assets/5874f26a-69bd-439a-a069-da3a0a59bcd0" />
+<img width="591" height="781" alt="image" src="https://github.com/user-attachments/assets/08324626-8cbc-4d42-ad83-96a06b7e85e6" />
+Materials used:
+Micro control board*1
+USB cable*1
+LED*1
+220Ω Resistor*1
+Breadboard*1
+Male to female Dupont Lines
