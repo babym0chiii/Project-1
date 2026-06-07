@@ -9,3 +9,6 @@ Using the Pro Micro Starter Kit
 
 ##Using Provided Test Code
 <img width="1691" height="942" alt="image" src="https://github.com/user-attachments/assets/757d4a0b-33c8-4644-b178-d486d068c934" />
+not sending back hello world, fixed my mistakes by removing number in serial line before print hello world 
+<img width="1707" height="961" alt="image" src="https://github.com/user-attachments/assets/c962564f-4427-4ea9-b7a0-5bf285e9bbe2" />
+returned correct message! success! -- edit 06JUN2026
