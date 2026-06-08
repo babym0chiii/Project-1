@@ -23,3 +23,9 @@ LED*1
 220Ω Resistor*1
 Breadboard*1
 Male to female Dupont Lines
+
+
+
+Used code from https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/all#example-1-blinkies
+this helped to enable the desired blinking loop 
+08JUN2026
